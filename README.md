@@ -7,4 +7,5 @@ Head Teaching Assistant for CIS1200 (Programming Languages & Techniques I), one 
 Interested in software, product development, entrepreneurship, and fingerstyle guitar!
 
 https://www.linkedin.com/in/eduardo-gonzalez-zetina-759366217/
+
 edgoze@seas.upenn.edu
